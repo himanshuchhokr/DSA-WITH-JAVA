@@ -15,6 +15,7 @@
 | [0027-remove-element](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
