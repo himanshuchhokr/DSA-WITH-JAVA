@@ -35,6 +35,7 @@
 | [0056-merge-intervals](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0063-unique-paths-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0053-maximum-subarray](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0063-unique-paths-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -239,6 +241,7 @@
 | [0048-rotate-image](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0063-unique-paths-ii) |
 ## Algorithm X
 |  |
 | ------- |
