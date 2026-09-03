@@ -42,6 +42,7 @@
 | [0073-set-matrix-zeroes](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0067-add-binary](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [0052-n-queens-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -270,6 +273,7 @@
 | [0063-unique-paths-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -313,4 +317,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0075-sort-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
