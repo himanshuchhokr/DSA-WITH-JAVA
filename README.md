@@ -79,6 +79,7 @@
 | [0066-plus-one](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [0062-unique-paths](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -289,4 +291,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
