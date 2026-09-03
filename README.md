@@ -55,6 +55,7 @@
 | [0041-first-missing-positive](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0076-minimum-window-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -119,11 +120,13 @@
 | [0065-valid-number](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0076-minimum-window-substring) |
 ## Binary Search
 |  |
 | ------- |
