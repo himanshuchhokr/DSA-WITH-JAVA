@@ -360,6 +360,7 @@
 | ------- |
 | [0079-word-search](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0100-same-tree) |
 ## Range Minimum/Maximum Query
 |  |
@@ -371,6 +372,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
@@ -378,12 +380,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0098-validate-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
