@@ -64,6 +64,7 @@
 | [0134-gas-station](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0137-single-number-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -356,6 +357,7 @@
 | [0089-gray-code](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0137-single-number-ii) |
 ## Matrix
 |  |
 | ------- |
