@@ -93,6 +93,7 @@
 | [0140-word-break-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0146-lru-cache) |
 ## Linked List
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0141-linked-list-cycle](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -583,4 +585,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
