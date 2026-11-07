@@ -117,6 +117,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0146-lru-cache) |
+| [0147-insertion-sort-list](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0147-insertion-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -304,6 +305,7 @@
 | [0056-merge-intervals](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0088-merge-sorted-array) |
+| [0147-insertion-sort-list](https://github.com/himanshuchhokr/DSA-WITH-JAVA/tree/master/0147-insertion-sort-list) |
 ## Backtracking
 |  |
 | ------- |
